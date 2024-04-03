@@ -17,6 +17,7 @@ public class KnightsTest {
 
     List<Knight> knights;
 
+
     @Test
     public void run(){
         for (Knight k:
